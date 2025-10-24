@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile H1D023052</string>
+    <string name="club">Club History</string>
+    <string name="coach">Head Coach</string>
+    <string name="squad">Team Squad</string>
+    <string name="name">FC Porto</string>
+    <string name="club_history">FC Porto</string>
+    <string name="desc_history">Era yang paling dikenang oleh banyak penggemar adalah pada awal tahun 2000-an, ketika manajer legendaris Jose Mourinho memimpin.
+        \nDi bawah pelatih muda ini, Porto memenangkan treble Piala UEFA, diikuti perjalanan yang menakjubkan menuju mahkota UEFA Champions League 2003-04.
+        \nSaat ini, Porto memiliki 30 mahkota Primeira Liga, 20 gelar Taca de Portugal dan telah berlaga di setiap musim di kasta tertinggi negara ini.</string>
+    <string name="news">Pertandingan FC Porto sebelumnya adalah melawan CD Celoricense yang berakhir dengan kemenangan FC Porto dengan skor 4 - 0.</string>
+</resources>
